@@ -1,7 +1,7 @@
 // for loops
 
 // FOR LOOP
-for (let number = 1; number < 100; number++) { // IF I want this block to run a hundred times
+for (let number = 1; number <= 100; number++) { // IF I want this block to run a hundred times
     // THIS block will run 'multiple times' - 100 times in this case
 }
 
